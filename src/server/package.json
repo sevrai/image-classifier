@@ -1,0 +1,10 @@
+{
+  "name": "image-classifier",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.mjs",
+  "dependencies": {
+    "p-queue": "^8.0.1"
+  },
+  "type": "module"
+}
